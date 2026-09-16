@@ -34,3 +34,7 @@ C:\Users\USUARIO\Documents\Curso\prueba-ia\obj\Debug\net8.0\refint\prueba-ia.dll
 C:\Users\USUARIO\Documents\Curso\prueba-ia\obj\Debug\net8.0\prueba-ia.pdb
 C:\Users\USUARIO\Documents\Curso\prueba-ia\obj\Debug\net8.0\prueba-ia.genruntimeconfig.cache
 C:\Users\USUARIO\Documents\Curso\prueba-ia\obj\Debug\net8.0\ref\prueba-ia.dll
+C:\Users\USUARIO\Documents\Curso\prueba-ia\bin\Debug\net8.0\package-lock.json
+C:\Users\USUARIO\Documents\Curso\prueba-ia\bin\Debug\net8.0\package.json
+C:\Users\USUARIO\Documents\Curso\prueba-ia\bin\Debug\net8.0\test-results\.last-run.json
+C:\Users\USUARIO\Documents\Curso\prueba-ia\obj\Debug\net8.0\prueba-ia.sourcelink.json

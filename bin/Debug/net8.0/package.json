@@ -1,0 +1,29 @@
+{
+  "name": "prueba-ia",
+  "version": "1.0.0",
+  "description": "AstroBookings is a backend API for managing rockets, launches, customers, and seat bookings for demo space travel operations.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:smoke": "playwright test tests/smoke.spec.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kathysuarez24/prueba-ia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/kathysuarez24/prueba-ia/issues"
+  },
+  "homepage": "https://github.com/kathysuarez24/prueba-ia#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.63.0"
+  },
+  "dependencies": {
+    "playwright": "^1.63.0",
+    "playwright-core": "^1.63.0"
+  }
+}
